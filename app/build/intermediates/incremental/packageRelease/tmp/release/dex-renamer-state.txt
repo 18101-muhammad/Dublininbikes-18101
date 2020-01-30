@@ -1,0 +1,4 @@
+#Thu Jan 30 18:51:58 PKT 2020
+base.0=/home/blackpanther/Documents/important/Paid Tasks/hassan_ijaz/Assignment_Dublin_2_v3/BikesInDublin/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
